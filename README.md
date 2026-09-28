@@ -17,7 +17,8 @@ My first Python game project, built while learning the fundamentals of Python. �
 ▪️💻 Simple CLI Gameplay
 
 
-Tech:
+
+🛠️Tech:
 
 🔹Python 🔹 random 🔹Conditions 🔹 Loops 🔹Functions
 
