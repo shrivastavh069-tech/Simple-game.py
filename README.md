@@ -1,2 +1,24 @@
 # Simple-game.py
-A simple command-line Stone Paper Scissor game built with Python. This is the first version of my project, created while learning Python fundamentals. ✨ Features 🤖 Play against a computer. 🎲 Random computer moves. 🏆 Automatic winner detection. 🤝 Draw detection. 💻 Simple command-line interface. 🐍 Built using basic Python concepts.
+
+✊📄✂️ 𝗦𝗧𝗢𝗡𝗘 𝗣𝗔𝗣𝗘𝗥 𝗦𝗖𝗜𝗦𝗦𝗢𝗥𝗦 — 𝗩𝟭
+
+My first Python game project, built while learning the fundamentals of Python. 🐍✨
+
+✴️Features✨
+
+▪️🎮 Player vs Computer
+
+▪️🎲 Random Computer Moves
+
+▪️🏆 Winner Detection
+
+▪️🤝 Draw Detection
+
+▪️💻 Simple CLI Gameplay
+
+
+Tech:
+🔹Python 🔹 random 🔹Conditions 🔹 Loops 🔹Functions
+
+✴️Cycle :-
+Choose ✊📄✂️ → Computer chooses → Winner decided! 🎯
