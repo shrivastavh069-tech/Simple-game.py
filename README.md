@@ -18,7 +18,10 @@ My first Python game project, built while learning the fundamentals of Python. �
 
 
 Tech:
+
 🔹Python 🔹 random 🔹Conditions 🔹 Loops 🔹Functions
 
 ✴️Cycle :-
+
+
 Choose ✊📄✂️ → Computer chooses → Winner decided! 🎯
